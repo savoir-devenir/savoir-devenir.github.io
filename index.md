@@ -15,4 +15,6 @@ Et sinon, ça sait ou ça devient ?
 
 **Fédérer les structures de formation**
 
+Le [blog de Tedua](https://blog.association-tedua.fr/accueil/)
+
 
