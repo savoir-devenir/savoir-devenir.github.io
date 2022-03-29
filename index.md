@@ -18,3 +18,6 @@ Et sinon, ça sait ou ça devient ?
 Le [blog de Tedua](https://blog.association-tedua.fr/accueil/)
 
 
+
+
+Le [la liste de nos formations](nos-formations)
