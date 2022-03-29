@@ -2,6 +2,9 @@
 layout: default
 ---
 
+![logo savoir devenir](/images/Log Savoir Devenir .png)
+
+
 # Hey ! Salut !
 
 Et sinon, ça sait ou ça devient ?
@@ -10,6 +13,6 @@ Et sinon, ça sait ou ça devient ?
 
 ## ORGANISATION APPRENANTE
 
-**Fédérer les structures de formation 
+**Fédérer les structures de formation**
 
 
